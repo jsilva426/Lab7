@@ -1,5 +1,9 @@
 #pragma once
-
+//lab7-jsilva2.h
+//jacob silva
+//11.19.18
+//I could not get merge sort and quick sort to work properly but i blieve that the code I have is extremely close to the correct
+//awnser
 #include <vector>
 using std::vector;
 #include <algorithm>
